@@ -1,0 +1,13 @@
+node_modules/
+dist/
+target/
+backend/.m2repo/
+.env
+.env.local
+.env.*
+!.env.example
+!backend/.env.example
+*.log
+.idea/
+.vscode/
+.DS_Store
